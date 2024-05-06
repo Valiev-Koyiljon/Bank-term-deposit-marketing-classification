@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 5. **Evaluation:** Assess model performance using metrics such as accuracy, precision, recall, and AUC-ROC.
 
 ### Running the Code
-Run the Jupyter notebook `BreadcrumbsBank-term-deposit-marketing-classification
+Run the Jupyter notebook `Bank-term-deposit-marketing-classification
 .ipynb` to go through the preprocessing, EDA, model training, and evaluation steps.
 
 ## Results
