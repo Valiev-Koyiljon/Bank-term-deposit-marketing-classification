@@ -35,7 +35,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 5. **Evaluation:** Assess model performance using metrics such as accuracy, precision, recall, and AUC-ROC.
 
 ### Running the Code
-Run the Jupyter notebook `bank_marketing_analysis.ipynb` to go through the preprocessing, EDA, model training, and evaluation steps.
+Run the Jupyter notebook `BreadcrumbsBank-term-deposit-marketing-classification
+.ipynb` to go through the preprocessing, EDA, model training, and evaluation steps.
 
 ## Results
 The project includes comparing several machine learning models. The best performing model based on accuracy and specificity is the Random Forest Classifier, achieving around 93% accuracy.
